@@ -1,2 +1,2 @@
-# cg_2020-2_not_equipe-01
-Trabalho desenvolvido na disciplina de Computação Gráfica na FURB/DSC/BCC.
+# Desenvolvimento para Plataformas Móveis
+Atividades desenvolvidas na disciplina de Desenvolvimento para Plataformas Móveis na FURB/DSC/BCC.
